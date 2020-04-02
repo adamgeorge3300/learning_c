@@ -1,0 +1,5 @@
+
+What's the difference between %d and %i?
+
+%d reads a decimal form (base 10)
+%i reads octal (base 8), decimal (base 10), hexadecimal (base 16)
